@@ -1,6 +1,6 @@
 import math
 
-with open("inputs.txt") as file:
+with open("day1_input.txt") as file:
     data = file.read()
 # Process the data to create two lists
 first_column = []
